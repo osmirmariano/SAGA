@@ -13,8 +13,12 @@ Sequence Alignment by Genetic Algorithm
 ## Authors
 
 * [Everton Barbosa Jr](https://github.com/ejkun) (everton.barbosa@uft.edu.br)
+* [Ivo Pontes Araújo](https://github.com/poentes) (ivopoentes@uft.edu.br)
 * [Rafael da Costa Silva](https://github.com/RafaelSilva7) (rafaelcs@uft.edu.br)
-* [Ivo Pontes](https://github.com/poentes) (ivopoentes@uft.edu.br)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details
 
 ## Advisor
 
