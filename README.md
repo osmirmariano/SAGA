@@ -1,14 +1,17 @@
-SAGA
-====
+# SAGA
 
 Sequence Alignment by Genetic Algorithm
 
-Contribuidores
-----
-* Everton Barbosa Jr
-* Rafael
-* Ivo Pontes
+## Based on
 
-Algoritmo baseado no artigo:
-----
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC145823/pdf/241515.pdf
+[SAGA: sequence alignment by genetic algorithm](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC145823/pdf/241515.pdf) by Cédric Notredame and Desmond G. Higgins
+
+## Built With
+
+* [Python3](https://docs.python.org/3/) - The language used 
+
+## Authors
+
+* [Everton Barbosa Jr](https://github.com/ejkun) (everton.barbosa@uft.edu.br)
+* [Rafael Silva](https://github.com/RafaelSilva7) (rafaelcs@uft.edu.br)
+* [Ivo Pontes](https://github.com/poentes) (ivopoentes@uft.edu.br)
