@@ -16,6 +16,10 @@ Sequence Alignment by Genetic Algorithm
 * [Ivo Pontes](https://github.com/poentes) (ivopoentes@uft.edu.br)
 * [Rafael da Costa Silva](https://github.com/RafaelSilva7) (rafaelcs@uft.edu.br)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details
+
 ## Advisor
 
 * [Wosley da Costa Arruda](http://github.com/) (warruda@uft.edu.br)
