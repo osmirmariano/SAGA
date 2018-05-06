@@ -10,5 +10,3 @@ class Saga():
 
 	def execute():
 		pass
-
-	
