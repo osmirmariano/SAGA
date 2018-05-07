@@ -13,6 +13,7 @@ class Individual():
 		self.__generation = generation
 		self.__chromossome = alignment
 		self.__fitness = 0
+		self.__expectOffspring = 0 # expected offspring (EO)
 		self.__lenAlignment = 0 
 		
 		self.__lengthChromossome()
