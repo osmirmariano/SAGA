@@ -37,8 +37,6 @@ class Saga():
 			self.__fitness(individual)
 		sorted(self.__population, key=lambda indiv: indiv.getFitness(), reverse=True)
 
-	def __selectParent(self):
-		pass
 
 	"""
 	Principal metodo do saga, o qual realizará a execução do algoritmo genetico, possui como 
